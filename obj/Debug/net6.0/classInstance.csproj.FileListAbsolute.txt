@@ -1,0 +1,15 @@
+C:\Users\90542\Desktop\Pratikler3\classInstance\bin\Debug\net6.0\classInstance.exe
+C:\Users\90542\Desktop\Pratikler3\classInstance\bin\Debug\net6.0\classInstance.deps.json
+C:\Users\90542\Desktop\Pratikler3\classInstance\bin\Debug\net6.0\classInstance.runtimeconfig.json
+C:\Users\90542\Desktop\Pratikler3\classInstance\bin\Debug\net6.0\classInstance.dll
+C:\Users\90542\Desktop\Pratikler3\classInstance\bin\Debug\net6.0\ref\classInstance.dll
+C:\Users\90542\Desktop\Pratikler3\classInstance\bin\Debug\net6.0\classInstance.pdb
+C:\Users\90542\Desktop\Pratikler3\classInstance\obj\Debug\net6.0\classInstance.csproj.AssemblyReference.cache
+C:\Users\90542\Desktop\Pratikler3\classInstance\obj\Debug\net6.0\classInstance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90542\Desktop\Pratikler3\classInstance\obj\Debug\net6.0\classInstance.AssemblyInfoInputs.cache
+C:\Users\90542\Desktop\Pratikler3\classInstance\obj\Debug\net6.0\classInstance.AssemblyInfo.cs
+C:\Users\90542\Desktop\Pratikler3\classInstance\obj\Debug\net6.0\classInstance.csproj.CoreCompileInputs.cache
+C:\Users\90542\Desktop\Pratikler3\classInstance\obj\Debug\net6.0\classInstance.dll
+C:\Users\90542\Desktop\Pratikler3\classInstance\obj\Debug\net6.0\ref\classInstance.dll
+C:\Users\90542\Desktop\Pratikler3\classInstance\obj\Debug\net6.0\classInstance.pdb
+C:\Users\90542\Desktop\Pratikler3\classInstance\obj\Debug\net6.0\classInstance.genruntimeconfig.cache
